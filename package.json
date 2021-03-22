@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+  "moment-timezone": "^0.5.33",
+  "winston": "^3.3.3"
+  }
 }
